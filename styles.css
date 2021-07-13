@@ -28,7 +28,8 @@ a:hover {
    min-height: 30px;
    padding: 10px; 
    position: fixed; 
-   text-align: center; 
+   text-align: center;    
+   
 }  
 .nav {
   display:flex;
@@ -310,7 +311,7 @@ input[name="r"]{
   .dropdown:hover .dropbtn {background-color: #3e8e41;}
   
   
-  
+
 
 
 
